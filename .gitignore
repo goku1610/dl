@@ -1,0 +1,12 @@
+# Image files and directories
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.JPG
+# Pooled images directory
+pooled/
+
+# Checkpoints (optional - uncomment if you don't want to commit checkpoints)
+# checkpoints/
