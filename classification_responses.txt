@@ -1,0 +1,313 @@
+
+================================================================================
+Image Size: (900, 1600)
+Saved Image: images/image1.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: mouse (99.90%)
+Fine Class: mouse (99.95%)
+
+### 🎨 Attributes
+Color: black (99.61%)
+  *Alternatives: blue (0.09%), grey (0.07%)*
+Material: plastic (100.00%)
+  *Alternatives: rubber (0.00%), unknown (0.00%)*
+Condition: used (95.51%)
+  *Alternatives: new (4.33%), unknown (0.07%)*
+Size: unknown (64.99%)
+  *Alternatives: medium (29.15%), large (5.09%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: mouse (97.46%)
+Fine Class: mouse (98.93%)
+
+### 🎨 Attributes
+Color: black (92.43%)
+  *Alternatives: grey (1.87%), green (1.12%)*
+Material: plastic (99.80%)
+  *Alternatives: unknown (0.08%), rubber (0.02%)*
+Condition: new (48.10%)
+  *Alternatives: used (46.44%), unknown (5.27%)*
+Size: unknown (99.37%)
+  *Alternatives: small (0.33%), medium (0.19%)*
+================================================================================
+
+================================================================================
+Image Size: (899, 1599)
+Saved Image: images/image2.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: earphones (69.14%)
+Fine Class: earphones (90.14%)
+
+### 🎨 Attributes
+Color: black (87.94%)
+  *Alternatives: blue (8.81%), unknown (0.80%)*
+Material: plastic (100.00%)
+  *Alternatives: rubber (0.00%), unknown (0.00%)*
+Condition: new (85.21%)
+  *Alternatives: unknown (14.58%), used (0.16%)*
+Size: medium (63.33%)
+  *Alternatives: unknown (33.18%), small (3.32%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: earphones (90.53%)
+Fine Class: earphones (96.14%)
+
+### 🎨 Attributes
+Color: red (27.95%)
+  *Alternatives: pink (17.08%), black (14.93%)*
+Material: plastic (97.71%)
+  *Alternatives: metal (1.16%), rubber (0.46%)*
+Condition: new (64.11%)
+  *Alternatives: used (25.17%), unknown (10.51%)*
+Size: unknown (97.61%)
+  *Alternatives: large (1.20%), small (1.11%)*
+================================================================================
+
+
+================================================================================
+Image Size: (1200, 1600)
+Saved Image: images/image3.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: keyboard (99.95%)
+Fine Class: keyboard (100.00%)
+
+### 🎨 Attributes
+Color: black (97.46%)
+  *Alternatives: blue (1.22%), unknown (0.75%)*
+Material: plastic (99.76%)
+  *Alternatives: metal (0.20%), leather (0.01%)*
+Condition: new (99.80%)
+  *Alternatives: used (0.07%), new" (0.07%)*
+Size: unknown (99.85%)
+  *Alternatives: large (0.13%), medium (0.01%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: keyboard (99.66%)
+Fine Class: keyboard (99.90%)
+
+### 🎨 Attributes
+Color: black (69.73%)
+  *Alternatives: unknown (28.17%), white (0.46%)*
+Material: plastic (97.90%)
+  *Alternatives: unknown (0.74%), metal (0.64%)*
+Condition: new (56.79%)
+  *Alternatives: unknown (28.39%), used (4.73%)*
+Size: unknown (99.80%)
+  *Alternatives: large (0.16%), medium (0.02%)*
+================================================================================
+
+================================================================================
+Image Size: (900, 1600)
+Saved Image: images/image4.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: bottle (44.56%)
+Fine Class: bottle (58.30%)
+
+### 🎨 Attributes
+Color: black (95.61%)
+  *Alternatives: grey (1.64%), unknown (0.69%)*
+Material: metal (98.44%)
+  *Alternatives: steel (0.23%), rubber and metal (0.21%)*
+Condition: used (96.97%)
+  *Alternatives: old" (1.69%), unknown (0.47%)*
+Size: unknown (99.80%)
+  *Alternatives: large (0.15%), small (0.03%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: bottle (97.95%)
+Fine Class: bottle (99.27%)
+
+### 🎨 Attributes
+Color: black (81.88%)
+  *Alternatives: grey (6.07%), pink (2.57%)*
+Material: metal (49.76%)
+  *Alternatives: plastic (41.09%), steel (5.30%)*
+Condition: used (97.95%)
+  *Alternatives: new (1.78%), unknown (0.08%)*
+Size: unknown (99.71%)
+  *Alternatives: medium (0.17%), large (0.11%)*
+================================================================================
+
+================================================================================
+Image Size: (900, 1600)
+Saved Image: images/image5.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: stationary (93.75%)
+Fine Class: stationary_notebook (75.44%)
+
+### 🎨 Attributes
+Color: red (38.70%)
+  *Alternatives: blue (36.47%), orange (12.17%)*
+Material: paperback (42.36%)
+  *Alternatives: plastic (42.02%), paper (3.50%)*
+Condition: new (99.85%)
+  *Alternatives: unknown (0.11%), deformed (0.02%)*
+Size: medium (69.09%)
+  *Alternatives: large (24.99%), unknown (5.46%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: bottle (25.93%)
+Fine Class: bottle (16.69%)
+
+### 🎨 Attributes
+Color: red (55.76%)
+  *Alternatives: pink (31.03%), yellow (4.89%)*
+Material: plastic (89.11%)
+  *Alternatives: glass (4.46%), fabric (1.75%)*
+Condition: new (80.91%)
+  *Alternatives: used (18.02%), unknown (0.60%)*
+Size: unknown (43.36%)
+  *Alternatives: medium (29.35%), large (22.11%)*
+================================================================================
+
+================================================================================
+Image Size: (900, 1600)
+Saved Image: images/image6.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: notebook (57.37%)
+Fine Class: notebook (73.05%)
+
+### 🎨 Attributes
+Color: white (99.95%)
+  *Alternatives: unknown (0.02%), blue (0.01%)*
+Material: plastic (98.39%)
+  *Alternatives: paper (1.41%), unknown (0.09%)*
+Condition: new (77.59%)
+  *Alternatives: unknown (18.01%), used (4.32%)*
+Size: unknown (94.78%)
+  *Alternatives: medium (4.44%), small (0.42%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: personal (32.13%)
+Fine Class: plate (22.36%)
+
+### 🎨 Attributes
+Color: white (60.69%)
+  *Alternatives: pink (12.57%), green (8.42%)*
+Material: plastic (75.78%)
+  *Alternatives: glass (8.29%), ceramic (6.83%)*
+Condition: new (78.66%)
+  *Alternatives: used (14.33%), unknown (6.46%)*
+Size: unknown (66.16%)
+  *Alternatives: medium (29.10%), large (3.68%)*
+================================================================================
+
+================================================================================
+Image Size: (900, 1600)
+Saved Image: images/image7.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: electronic (34.86%)
+Fine Class: travel_suitcase (59.38%)
+
+### 🎨 Attributes
+Color: white (99.27%)
+  *Alternatives: pink (0.34%), silver (0.14%)*
+Material: plastic (100.00%)
+  *Alternatives: metal (0.01%), fabric (0.00%)*
+Condition: used (67.92%)
+  *Alternatives: unknown (31.32%), new (0.72%)*
+Size: unknown (74.46%)
+  *Alternatives: small (21.18%), medium (3.96%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: tableware (19.54%)
+Fine Class: lunchbox (21.33%)
+
+### 🎨 Attributes
+Color: white (94.78%)
+  *Alternatives: blue (2.40%), green (0.82%)*
+Material: plastic (98.63%)
+  *Alternatives: metal (0.81%), unknown (0.21%)*
+Condition: unknown (49.34%)
+  *Alternatives: used (36.25%), new (14.28%)*
+Size: unknown (97.36%)
+  *Alternatives: medium (2.22%), small (0.38%)*
+================================================================================
+
+================================================================================
+Image Size: (1200, 1600)
+Saved Image: images/image8.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: mouse (99.12%)
+Fine Class: mouse (99.37%)
+
+### 🎨 Attributes
+Color: white (81.35%)
+  *Alternatives: black (6.42%), pink (2.72%)*
+Material: plastic (100.00%)
+  *Alternatives: ceramic (0.00%), fabric (0.00%)*
+Condition: new (62.21%)
+  *Alternatives: used (37.30%), new,size:small (0.43%)*
+Size: unknown (99.51%)
+  *Alternatives: medium (0.26%), small (0.19%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: mouse (42.53%)
+Fine Class: mouse (67.87%)
+
+### 🎨 Attributes
+Color: blue (77.29%)
+  *Alternatives: white (15.28%), unknown (3.69%)*
+Material: plastic (98.97%)
+  *Alternatives: metal (0.40%), ceramic (0.19%)*
+Condition: new (52.15%)
+  *Alternatives: used (38.45%), unknown (9.15%)*
+Size: unknown (99.46%)
+  *Alternatives: medium (0.34%), small (0.11%)*
+================================================================================

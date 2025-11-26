@@ -1,0 +1,174 @@
+
+================================================================================
+Query: Phone
+Top-K Caption: 6 | Top-K Visual: 6
+
+--- Caption-Based Results ---
+## 📝 Caption-Based Retrieval (Top-6)
+Method: Text-to-Text Matching | Results: 6/6 | Avg Score: 0.4510
+
+[Top-1] Score: 0.4753 | keyboard
+  💬 *"Black phone on silver laptop."*
+
+[Top-2] Score: 0.4569 | keyboard
+  💬 *"Laptop, phone, and desk setup."*
+
+[Top-3] Score: 0.4435 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+[Top-4] Score: 0.4435 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+[Top-5] Score: 0.4435 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+[Top-6] Score: 0.4435 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+
+
+--- Visual-Based Results ---
+## 🎨 Visual-Based Retrieval (Top-6)
+Method: Text-to-Image Matching | Results: 6/6 | Avg Score: 0.2982
+
+[Top-1] Score: 0.3184 | wristwatch
+
+[Top-2] Score: 0.2979 | wristwatch
+
+[Top-3] Score: 0.2972 | wristwatch
+
+[Top-4] Score: 0.2958 | wristwatch
+
+[Top-5] Score: 0.2904 | wristwatch
+
+[Top-6] Score: 0.2894 | phone_charger
+
+
+================================================================================
+
+================================================================================
+Query: Mobile Phone
+Top-K Caption: 10 | Top-K Visual: 8
+
+--- Caption-Based Results ---
+## 📝 Caption-Based Retrieval (Top-10)
+Method: Text-to-Text Matching | Results: 10/10 | Avg Score: 0.4416
+
+[Top-1] Score: 0.4964 | keyboard
+  💬 *"Black phone on silver laptop."*
+
+[Top-2] Score: 0.4832 | keyboard
+  💬 *"Laptop, phone, and desk setup."*
+
+[Top-3] Score: 0.4652 | keyboard
+  💬 *"Digital workspace: laptop and phone."*
+
+[Top-4] Score: 0.4319 | clothing_wrist_watch
+  💬 *"pink smartwatch"*
+
+[Top-5] Score: 0.4319 | clothing_wrist_watch
+  💬 *"pink smartwatch"*
+
+[Top-6] Score: 0.4319 | clothing_wrist_watch
+  💬 *"pink smartwatch"*
+
+[Top-7] Score: 0.4188 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+[Top-8] Score: 0.4188 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+[Top-9] Score: 0.4188 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+[Top-10] Score: 0.4188 | phone_charger
+  💬 *"a white plastic used phone_charger"*
+
+
+
+--- Visual-Based Results ---
+## 🎨 Visual-Based Retrieval (Top-8)
+Method: Text-to-Image Matching | Results: 8/8 | Avg Score: 0.3089
+
+[Top-1] Score: 0.3294 | wristwatch
+
+[Top-2] Score: 0.3163 | keyboard
+
+[Top-3] Score: 0.3139 | keyboard
+
+[Top-4] Score: 0.3041 | keyboard
+
+[Top-5] Score: 0.3031 | keyboard
+
+[Top-6] Score: 0.3026 | keyboard
+
+[Top-7] Score: 0.3011 | clothing_wrist_watch
+
+[Top-8] Score: 0.3003 | keyboard
+
+
+================================================================================
+
+================================================================================
+Query: Clash Royale
+Top-K Caption: 10 | Top-K Visual: 8
+
+--- Caption-Based Results ---
+## 📝 Caption-Based Retrieval (Top-10)
+Method: Text-to-Text Matching | Results: 10/10 | Avg Score: 0.2997
+
+[Top-1] Score: 0.3213 | lunchbox
+  💬 *"New video game with landscape art."*
+
+[Top-2] Score: 0.3031 | sneakers
+  💬 *"Batman illustration on a square card."*
+
+[Top-3] Score: 0.3031 | sneakers
+  💬 *"Batman illustration on a square card."*
+
+[Top-4] Score: 0.3031 | sneakers
+  💬 *"Batman illustration on a square card."*
+
+[Top-5] Score: 0.3031 | sneakers
+  💬 *"Batman illustration on a square card."*
+
+[Top-6] Score: 0.3031 | sneakers
+  💬 *"Batman illustration on a square card."*
+
+[Top-7] Score: 0.2900 | scissor
+  💬 *"close scissor"*
+
+[Top-8] Score: 0.2900 | scissor
+  💬 *"close scissor"*
+
+[Top-9] Score: 0.2900 | scissor
+  💬 *"close scissor"*
+
+[Top-10] Score: 0.2900 | scissor
+  💬 *"close scissor"*
+
+
+
+--- Visual-Based Results ---
+## 🎨 Visual-Based Retrieval (Top-8)
+Method: Text-to-Image Matching | Results: 8/8 | Avg Score: 0.2567
+
+[Top-1] Score: 0.2834 | cap
+
+[Top-2] Score: 0.2798 | cap
+
+[Top-3] Score: 0.2652 | umbrella
+
+[Top-4] Score: 0.2493 | cap
+
+[Top-5] Score: 0.2453 | cap
+
+[Top-6] Score: 0.2448 | sneakers
+
+[Top-7] Score: 0.2431 | scissor
+
+[Top-8] Score: 0.2430 | wristwatch
+
+
+================================================================================
+
