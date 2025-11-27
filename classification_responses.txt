@@ -311,3 +311,42 @@ Condition: new (52.15%)
 Size: unknown (99.46%)
   *Alternatives: medium (0.34%), small (0.11%)*
 ================================================================================
+
+================================================================================
+Image Size: (900, 1600)
+Saved Image: images/image9.jpg
+
+--- DeiT-Tiny Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: stationary (35.67%)
+Fine Class: clothing_wrist_watch (34.42%)
+
+### 🎨 Attributes
+Color: black (69.97%)
+  *Alternatives: blue (24.37%), unknown (5.52%)*
+Material: plastic (97.51%)
+  *Alternatives: metal (0.54%), rubber (0.48%)*
+Condition: unknown (96.44%)
+  *Alternatives: new (3.52%), new" (0.02%)*
+Size: unknown (60.79%)
+  *Alternatives: medium (33.50%), small (5.49%)*
+
+--- TinyVIT Results ---
+## Classification Results
+
+### 🏷️ Class Predictions
+Coarse Class: notebook (32.59%)
+Fine Class: travel_suitcase (31.37%)
+
+### 🎨 Attributes
+Color: black (55.03%)
+  *Alternatives: blue (41.21%), green (0.96%)*
+Material: plastic (85.30%)
+  *Alternatives: leather (6.16%), unknown (1.88%)*
+Condition: new (62.74%)
+  *Alternatives: used (19.74%), unknown (17.42%)*
+Size: unknown (87.70%)
+  *Alternatives: medium (7.88%), large (2.53%)*
+================================================================================
